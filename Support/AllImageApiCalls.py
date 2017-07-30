@@ -9,7 +9,7 @@ import filemapper as fm
 headers = {
     # Request headers. Replace the placeholder key below with your subscription key.
     'Content-Type': 'application/octet-stream',
-    'Ocp-Apim-Subscription-Key': 'bd02b68dcc054e858b16f94b106af75e',
+    'Ocp-Apim-Subscription-Key': '************************',
 }
 
 params = urllib.parse.urlencode({
